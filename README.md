@@ -5,7 +5,7 @@ A modern, all-in-one productivity tool designed to help users plan their day, ma
 
 🚀 Features
 
-📝 To-Do List
+  📝 To-Do List
 
 Add tasks with details
 
@@ -15,7 +15,7 @@ Mark as completed & remove
 
 LocalStorage persistence
 
-🗓️ Daily Planner
+  🗓️ Daily Planner
 
 Hour-wise day planning (6 AM → 12 AM)
 
@@ -23,7 +23,7 @@ Auto-save on input
 
 LocalStorage persistence
 
-🎯 Daily Goals
+  🎯 Daily Goals
 
 Add goals for the day
 
@@ -33,7 +33,7 @@ Mark goals as completed
 
 LocalStorage persistence
 
-⏱ Pomodoro Timer
+  ⏱ Pomodoro Timer
 
 25 min work + 5 min break cycles
 
@@ -41,13 +41,13 @@ Start / Pause / Reset controls
 
 Session display with status
 
-💬 Motivation System
+  💬 Motivation System
 
 Fetches a random Quote of the Day
 
 Displays quote + author
 
-🌤 Weather & Time
+  🌤 Weather & Time
 
 Real-time digital clock
 
@@ -55,19 +55,19 @@ Live weather status (API based)
 
 Displays temperature, wind, humidity, condition, etc.
 
-🎨 Theme Switching
+  🎨 Theme Switching
 
 3-theme cycle (Light / Dark / Coffee)
 
 Using CSS variables
 
-🛠️ Tech Stack
+  🛠️ Tech Stack
 Category	Technologies
 Frontend	HTML, CSS, JavaScript
 Storage	LocalStorage
 APIs	Quotable API, WeatherAPI
 UI Assets	Remix Icons, Unsplash Background
-📂 Folder Structure
+  📂 Folder Structure
 /assets
   - icons & images
 index.html
@@ -75,7 +75,7 @@ style.css
 script.js
 README.md
 
-📡 APIs Used
+  📡 APIs Used
 ► Quotable API
 
 Used for motivational quotes.
@@ -84,7 +84,7 @@ Used for motivational quotes.
 
 Used to fetch weather details.
 
-💾 Data Persistence
+  💾 Data Persistence
 
 The following modules persist data locally:
 
@@ -102,4 +102,4 @@ localStorage.setItem() / getItem()
 
 👨‍💻 Author
 
-Sourav Pareek
+-Sourav Pareek
