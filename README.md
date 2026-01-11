@@ -4,6 +4,7 @@
 A modern, all-in-one productivity tool designed to help users plan their day, manage tasks, track goals, and stay motivated — all inside a sleek UI with theming support and persistent storage.
 
 🚀 Features
+
 📝 To-Do List
 
 Add tasks with details
